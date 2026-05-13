@@ -47,7 +47,7 @@
 ### 1. Clonar el proyecto
 
 ```bash
-git clone 
+git clone https://github.com/jmortega/nlp_language_recognition
 ```
 
 ### 2. Crear entorno virtual (recomendado)
